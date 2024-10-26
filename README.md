@@ -20,29 +20,14 @@ Proficient in **API integration** and **UI/UX design**, I aim to deliver optimal
 
 | **Category**           | **Skills**                                                                                                                                                     |
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**          | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frameworks**         | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
-| **Backend**            | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-| **Databases**          | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
-| **Version Control**    | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) |
-| **Cloud & Deployment** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| **Project Management** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) |
-| **Design**             | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
-
----
-
-### 📊 **Skill Proficiency**
-
-| **Skill**        | **Proficiency**      |
-|------------------|----------------------|
-| PHP              | ![90%](https://progress-bar.dev/90) |
-| Laravel          | ![85%](https://progress-bar.dev/85) |
-| Vue.js           | ![80%](https://progress-bar.dev/80) |
-| JavaScript       | ![85%](https://progress-bar.dev/85) |
-| Node.js          | ![75%](https://progress-bar.dev/75) |
-| Docker           | ![70%](https://progress-bar.dev/70) |
-| MySQL            | ![85%](https://progress-bar.dev/85) |
-| PostgreSQL       | ![75%](https://progress-bar.dev/75) |
+| **Languages**          | ![PHP](https://img.shields.io/badge/PHP-Expert-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Frontend**           | ![Vue.js](https://img.shields.io/badge/Vue.js-Advanced-4FC08D?style=flat&logo=vue.js&logoColor=white) ![React.js](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat&logo=react&logoColor=black) |
+| **Backend**            | ![Laravel](https://img.shields.io/badge/Laravel-Expert-FF2D20?style=flat&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=flat&logo=node.js&logoColor=white) |
+| **Databases**          | ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=flat&logo=postgresql&logoColor=white) |
+| **Version Control**    | ![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=flat&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-Advanced-FC6D26?style=flat&logo=gitlab&logoColor=white) |
+| **Cloud & Deployment** | ![AWS](https://img.shields.io/badge/AWS-Intermediate-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Project Management** | ![Jira](https://img.shields.io/badge/Jira-Proficient-0052CC?style=flat&logo=jira&logoColor=white) |
+| **Design**             | ![Photoshop](https://img.shields.io/badge/Photoshop-Proficient-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-Proficient-F24E1E?style=flat&logo=figma&logoColor=white) |
 
 ---
 
