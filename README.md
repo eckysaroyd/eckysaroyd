@@ -43,6 +43,7 @@ Proficient in **API integration** and **UI/UX design**, I aim to deliver optimal
 - **Email**: [eckysaroyd.en@gmail.com](mailto:eckysaroyd.en@gmail.com)
 - **LinkedIn**: [linkedin.com/in/eckysaroyd](https://www.linkedin.com/in/eckysaroyd/)
 - **GitHub**: [github.com/eckysaroyd](https://github.com/eckysaroyd)
+- **Website**: [https://eckysaroyd.vercel.app](https://eckysaroyd.vercel.app)
 
 ---
 
